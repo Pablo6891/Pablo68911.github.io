@@ -1,0 +1,24 @@
+body{
+    font-size: 15px;
+
+}
+#container
+
+#container>dir>{
+    background-color: tomato;
+    margin-bottom: 15px;
+}
+
+#pixels {
+    width: 400px;
+}
+
+#em {
+    width: 15;
+}
+#procent {
+    width: 50%;
+}
+#vh {
+    width: 60%;
+}

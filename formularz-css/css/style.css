@@ -19,10 +19,9 @@ input{
     background-color:#2b4a64 ;
 }
 
-input[type=text]{
+input[type=text]
     
-    display: inline-block
-}
+   
 
 
 
