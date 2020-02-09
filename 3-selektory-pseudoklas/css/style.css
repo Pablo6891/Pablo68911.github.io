@@ -15,6 +15,6 @@
 .customer:nth-child(4){
     color: red;
 }
-.customer:nth-last-child(2){
-    color: yellow;
+.customer:nth-last-child(3n){
+background-color: yellow;
 }
