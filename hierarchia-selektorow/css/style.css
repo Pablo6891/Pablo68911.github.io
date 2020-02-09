@@ -1,15 +1,44 @@
-p {
-    background-color: yellow !important;
-}
-
-
-
-p#paragraph{
-    background-color: hotpink;
-}
-p.paragraph{
-    background-color: tomato;
-}
-p{
-    background-color: khaki;
-}
+form{
+    width: 600px;
+    color: white;
+ padding: 20px;
+    background-color: #213b50
+ } 
+ form input, form select{
+     margin-bottom: 10px;  
+ }
+ label{
+     display: block;
+ }
+ 
+ input{
+ 
+ 
+     padding: 1px ;
+     border: 1px;
+     color: #ffffff;
+     background-color:#2b4a64 ;
+ }
+ 
+ input[type=text]{
+ 
+     display: inline-block
+ }
+ 
+ 
+ 
+ 
+ select {
+ background-color: #2b4a64;
+ }
+ 
+ input:focus {
+ padding: 5;
+     border: 5px;
+ color:#ffffff;
+ background-color:#4e708c ;
+ }
+ 
+ textarea 
+ {background-color:#2b4a64 ;}
+ 
