@@ -1,0 +1,9 @@
+#background-img{
+    background-color: violet;
+    background-image: url(../img/POP.png);
+    background-repeat: repeat-y;
+    background-position: center;
+    background-size: contain;
+    background-attachment: fixed;
+back
+}

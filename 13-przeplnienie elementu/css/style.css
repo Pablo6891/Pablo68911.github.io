@@ -1,0 +1,23 @@
+.box {
+    width: 300px;
+    height: 150px;
+    background-color: tomato;
+    border: 5px solid red;
+    margin: 50px;
+    padding: 10px;
+}
+#visible{
+    overflow: visable;
+}
+#hidden{
+    overflow: hidden;
+}
+#scroll{
+    overflow-y: scroll;
+    overflow-x: hidden;
+
+}
+#auto{
+    overflow: scroll;
+    background-image: url(../css/img/POP.png);
+}
