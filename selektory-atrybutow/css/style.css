@@ -1,0 +1,24 @@
+[title] {
+    color:yellow
+}
+[title="About me"]{
+    color:red}
+
+
+[title~="me"]{
+    color:purple
+}
+[title*=Con]{
+    background-color: seagreen;
+}
+[title^="Section"]{
+    background-color: blue}
+
+ [tilte$=skills] {
+        color:green
+    }
+
+    nav > ul > li > a[title*=oll]:hover {
+        background-color:green
+
+    }
