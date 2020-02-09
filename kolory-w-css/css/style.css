@@ -1,0 +1,25 @@
+body{
+    background-color: red;
+}
+div{
+    width: 200px;
+    height: 100px;
+    margin: 1px;
+
+}
+#predefined-colors {
+    background-color: salmon;
+}
+#hexadecimal-colors{
+    background-color: #138Fda;
+}
+#short-hexadecimal-colors{
+    background-color: #138;
+}
+#rgb-function{
+    background-color: rgb(250, 35, 40);
+
+}
+#rgba-function {
+    background-color: rgba(250, 133, 255, 0.7);
+}
