@@ -10,5 +10,11 @@
 }
 
 .customer:first-child{
-    color: blue;
+    color: green;
+}
+.customer:nth-child(4){
+    color: red;
+}
+.customer:nth-last-child(2){
+    color: yellow;
 }
